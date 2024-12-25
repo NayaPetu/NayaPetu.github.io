@@ -481,3 +481,24 @@ h2{margin: 5px; margin-top: 30px;font-size: 50px;}
   align-self:flex-end;
 }
 
+
+.razdel {
+  width: 90%;
+  /* margin: 0 auto; */
+  /* padding: 40px; */
+  /* display: flex;
+  justify-content: space-between; */
+}
+
+/* .r2{
+  display: flex;
+  justify-content: space-between;
+}
+
+.tipograf{
+  background-color: #003DFF;
+} */
+
+.tr{
+  margin-top: 80px;
+}
